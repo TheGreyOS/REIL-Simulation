@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+title: "Spacetime Curvature from Recursive Electromagnetic Inertial Loops (REIL)"
+authors:
+  - family-names: Betti
+    given-names: Gregory
+    affiliation: GreyOS Labs: Symbolic Physics Division
+    orcid: ""
+version: "1.0.0"
+date-released: "2025-05-16"
+repository-code: "https://github.com/YOUR_GITHUB_USERNAME/reil-core-sim"
+license: MIT
+doi: ""
+message: "If you use this work, please cite as below."
