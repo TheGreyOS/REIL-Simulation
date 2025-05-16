@@ -1,6 +1,6 @@
 # REIL Core: Spacetime Curvature from Recursive Electromagnetic Inertial Loops
 
-**Authors:** Gregory Betti, GreyOS Symbolic Physics Division; ChatGPT-4o (Co-simulation support)
+**Authors:** Gregory Betti, GreyOS Symbolic Physics Division
 
 ---
 
@@ -84,7 +84,7 @@ This project is open source under the MIT License. See `LICENSE` for details.
 
 ## Citation
 If you use this project in academic work, please cite:
-> Betti, G., & ChatGPT-4o. (2025). Spacetime Curvature from Recursive Electromagnetic Inertial Loops (REIL): A Simulation-Based Analysis of Toroidal Field-Induced Warp Shells. [Open Source Software].
+> Betti, G. (2025). Spacetime Curvature from Recursive Electromagnetic Inertial Loops (REIL): A Simulation-Based Analysis of Toroidal Field-Induced Warp Shells. [Open Source Software].
 
 ---
 
