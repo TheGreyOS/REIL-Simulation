@@ -17,7 +17,7 @@ This open-source project provides a simulation and interactive visualization sui
 ## Installation
 1. Clone the repository:
    ```
-   git clone https://github.com/YOUR_GITHUB_USERNAME/reil-core-sim.git
+   git clone https://github.com/TheGreyOS/REIL-Simulation
    cd reil-core-sim
    ```
 2. Install dependencies:
