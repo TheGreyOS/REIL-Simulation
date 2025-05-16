@@ -1,6 +1,7 @@
 # REIL Core: Spacetime Curvature from Recursive Electromagnetic Inertial Loops
 
 **Authors:** Gregory Betti, GreyOS Symbolic Physics Division
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15444280.svg)](https://doi.org/10.5281/zenodo.15444280)
 
 ---
 
